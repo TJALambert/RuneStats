@@ -130,7 +130,7 @@ function displayStats(msg, link, user) {
 				let row = []
 				let size = 15
 				let lvlSize = 6
-				let xpSize = 12
+				let xpSize = 14
 				let rankSize = 6
 				
 				let msgStats = "```" + '\n' + 'Displaying stats for: \'' + user + '\''
